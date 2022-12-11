@@ -9,8 +9,8 @@ Simple console python script to view or export a xlsx file with data, that Viber
 
 ## **Requirements**:
 
--easygui==0.98.3
+> easygui==0.98.3
 
--openpyxl==3.0.10
+> openpyxl==3.0.10
 
 
