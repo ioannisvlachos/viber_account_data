@@ -4,8 +4,9 @@ Simple console python script to view or export a xlsx file with data, that Viber
 
 + Firstly, request a copy of your data through your Viber app (https://help.viber.com/en/article/request-review-and-delete-your-data-on-viber).
 + Download and unzip the file.
-+ Install depedencies (pip install -r requirements.txt)
-+ Run the script (python/python3 viber_data.py)
++ Install depedencies
++ Run the script
++ Choose the json file
 
 ## **Requirements**:
 
@@ -14,3 +15,12 @@ Simple console python script to view or export a xlsx file with data, that Viber
 > openpyxl==3.0.10
 
 
+## **Installation**:
+
+> pip install -r requirements.txt
+
+## **Use**:
+
+> python viber_data.py
+
+> python3 viber_data.py
