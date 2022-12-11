@@ -6,7 +6,6 @@ Simple console python script to view or export a xlsx file with data, that Viber
 + Download and unzip the file.
 + Install depedencies
 + Run the script
-+ Choose the json file
 
 ## **Requirements**:
 
